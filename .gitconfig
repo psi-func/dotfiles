@@ -1,3 +1,6 @@
+[user]
+        email = shalaginmx998@yandex.ru
+        name = psi-func
 [alias]
   ci = commit -s
   co = checkout
@@ -9,3 +12,4 @@
   lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
   lolb = log --graph --decorate --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --all --simplify-by-decoration
   hist = log --pretty=format:\"%h %ad|%s%d [%an]\" --graph --date=short
+
